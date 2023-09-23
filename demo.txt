@@ -1,1 +1,2 @@
 first devops lab we are ready for that lab
+in this we are learning the commands 
